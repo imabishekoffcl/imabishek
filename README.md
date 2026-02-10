@@ -1,2 +1,3 @@
 # imabishek
-Undergraduate student passionate about web development and databases. Skilled in HTML, CSS, JavaScript, and SQL.
+Undergraduate student passionate about Networking.
+Skilled in HTML, CSS, JavaScript, JAVA and SQL.
